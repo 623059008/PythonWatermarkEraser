@@ -18,3 +18,13 @@ Click the menu to open an image, and use mouse to select a rectangle on your pic
 
 点击菜单来上传图片, 在右侧的窗口框选水印的位置，点击去除水印的按钮去除水印，结果会在左边显示，点击菜单中的保存图片来保存修改后的图片
 
+# Demo
+
+Menu Select Picture 选择图片
+![demo1](./imgs/demo1.png)
+Select Rectangle of the Watermark 框选水印
+![demo2](./imgs/demo2.png)
+Click Button to remove 点击去除水印
+![demo3](./imgs/demo3.png)
+Save Result 保存图片
+![demo4](./imgs/demo4.png)
